@@ -7,7 +7,10 @@ class Solution:
                 sorted_dict[sorted_str].append(s)
             else:
                 sorted_dict[sorted_str]=[s]
-        final_list = []
-        for anagrams in sorted_dict.values():
-            final_list.append(anagrams)
-        return final_list
+        
+        return list(sorted_dict.values())
+        
+        # final_list = []
+        # for anagrams in sorted_dict.values():
+        #     final_list.append(anagrams)
+        # return final_list

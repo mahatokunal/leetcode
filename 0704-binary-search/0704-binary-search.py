@@ -7,7 +7,6 @@ class Solution:
             if nums[mid]==target:
                 return mid
             elif nums[mid]>target:
-                print("b")
                 r= mid-1
             else:
                 print("c")

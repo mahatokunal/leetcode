@@ -14,7 +14,6 @@ class Solution:
             lHeight = depth(node.left)
             rHeight = depth(node.right)
             if lHeight is False or rHeight is False or lHeight-rHeight>1 or lHeight-rHeight<-1:
-                print(node.val, lHeight, rHeight, lHeight-rHeight)
                 return False
             return 1 + max(lHeight, rHeight) 
         return depth(root)!=False

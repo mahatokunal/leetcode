@@ -7,7 +7,7 @@
 class Solution:
     def goodNodes(self, root: TreeNode) -> int:
         count = 0
-        return self.dfs(root, -10001, count)
+        return self.dfs(root, root.val, count)
     
     def dfs(self, node, lastGreatest, count):
         if not node:

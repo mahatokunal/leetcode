@@ -9,10 +9,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/mahatokunal/leetcode/tree/main/0130-surrounded-regions/) | Medium |
+| [0207-course-schedule](https://github.com/mahatokunal/leetcode/tree/main/0207-course-schedule/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/mahatokunal/leetcode/tree/main/0130-surrounded-regions/) | Medium |
+| [0207-course-schedule](https://github.com/mahatokunal/leetcode/tree/main/0207-course-schedule/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -21,4 +23,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/mahatokunal/leetcode/tree/main/0130-surrounded-regions/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/mahatokunal/leetcode/tree/main/0207-course-schedule/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/mahatokunal/leetcode/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
